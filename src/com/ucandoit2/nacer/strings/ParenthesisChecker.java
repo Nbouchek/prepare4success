@@ -46,6 +46,6 @@ public class ParenthesisChecker {
         return theStack.isEmpty() ? 1 : 0;
     }
     public static void main(String[] args) {
-        System.out.println("ParenthesisChecker;\n\t" + new ParenthesisChecker().solution("{[()()]}"));
+        System.out.println("ParenthesisChecker;\n\t" + new ParenthesisChecker().solution("[[{()}][][]]"));
     }
 }
