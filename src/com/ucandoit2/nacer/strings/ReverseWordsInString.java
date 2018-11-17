@@ -1,7 +1,5 @@
 package com.ucandoit2.nacer.strings;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
 
 public class ReverseWordsInString {
     private String solution(String string) {
