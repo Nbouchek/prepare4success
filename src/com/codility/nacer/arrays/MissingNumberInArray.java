@@ -38,7 +38,6 @@ public class MissingNumberInArray {
         for (int aA : A) {
             sum += aA;
         }
-
         return (int) ((length + 1)*(length + 2)/2 - sum);
     }
 
