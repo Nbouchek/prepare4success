@@ -49,9 +49,9 @@ public class PermutationsAfAString {
         }
     }
 
-    private String swapChars(String a, int i, int j)
+    private String swapChars(String string, int i, int j)
     {
-        char[] charArray = a.toCharArray();
+        char[] charArray = string.toCharArray();
 
         char temp = charArray[i] ;
         charArray[i] = charArray[j];
