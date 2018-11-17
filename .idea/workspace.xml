@@ -1,78 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prepare4success.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/certification/java/nacer/Mycart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/certification/java/nacer/shoppingcart/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/certification/java/nacer/shoppingcart/Shoppingcart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/certification/java/nacer/soccerleague/soccer/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/certification/java/nacer/soccerleague/soccer/Goal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/certification/java/nacer/soccerleague/soccer/League.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/certification/java/nacer/soccerleague/soccer/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/certification/java/nacer/soccerleague/soccer/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/Lesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/arrays/CyclicRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/arrays/OddOccurrencesInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/binarySearchAlgorithm/MinMaxDivision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/binarySearchAlgorithm/NailingPlanks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/caterpillarMethod/AbsDistinct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/caterpillarMethod/CountDistinctSlices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/caterpillarMethod/CountTriangles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/caterpillarMethod/MinAbsSumOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/countingelements/FrogRiverOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/countingelements/MaxCounters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/countingelements/MissingInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/countingelements/PermCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/dynamicProgramming/MinAbsSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/dynamicProgramming/NumberSolitaire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/euclideanAlgorithm/ChocolatesByNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/euclideanAlgorithm/CommonPrimeDivisors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/fibonacciNumbers/FibFrog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/fibonacciNumbers/Ladder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/greedyAlgorithms/MaxNonoverlappingSegments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/greedyAlgorithms/TieRopes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/iterations/BinaryGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/leader/Dominator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/leader/EquiLeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/maximumSliceProblem/MaxDoubleSliceSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/maximumSliceProblem/MaxProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/maximumSliceProblem/MaxSliceSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/ocadotaskone/Median.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/ocadotaskthree/Necklace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/ocadotasktwo/Mode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/prefixsums/CountDiv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/prefixsums/GenomicRangeQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/prefixsums/MinAvgTwoSlice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/prefixsums/PassingCars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/primeAndCompositeNumbers/CountFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/primeAndCompositeNumbers/Flags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/primeAndCompositeNumbers/MinPerimeterRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/primeAndCompositeNumbers/Peaks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/sieveOfEratosthenes/CountNonDivisible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/sieveOfEratosthenes/CountSemiprimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/sorting/Distinct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/sorting/MaxProductOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/sorting/NumberOfDiscIntersections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/sorting/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/stacksandqueues/Brackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/stacksandqueues/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/stacksandqueues/Nesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/stacksandqueues/StoneWall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/tasksFromIndeedPrime2015/FloodDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/tasksFromIndeedPrime2015/LongestPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/tasksFromIndeedPrime2015/SlalomSkiing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/timecomplexity/FrogJmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/timecomplexity/PermMissingElem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/timecomplexity/TapeEquilibrium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/nacer/FirstBadVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/nacer/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/nacer/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/nacer/ShoppingCart.java" afterDir="false" />
+    <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="MissingNumberInArray first commit.">
+      <change afterPath="$PROJECT_DIR$/src/com/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codility/nacer/arrays/MissingNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/certification/java/nacer/Mycart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/certification/java/nacer/Mycart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/certification/java/nacer/shoppingcart/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/certification/java/nacer/shoppingcart/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/certification/java/nacer/shoppingcart/Shoppingcart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/certification/java/nacer/shoppingcart/Shoppingcart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/certification/java/nacer/soccerleague/soccer/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/certification/java/nacer/soccerleague/soccer/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/certification/java/nacer/soccerleague/soccer/Goal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/certification/java/nacer/soccerleague/soccer/Goal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/certification/java/nacer/soccerleague/soccer/League.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/certification/java/nacer/soccerleague/soccer/League.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/certification/java/nacer/soccerleague/soccer/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/certification/java/nacer/soccerleague/soccer/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/certification/java/nacer/soccerleague/soccer/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/certification/java/nacer/soccerleague/soccer/Team.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/Lesson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/arrays/CyclicRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/arrays/CyclicRotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/arrays/OddOccurrencesInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/arrays/OddOccurrencesInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/binarySearchAlgorithm/MinMaxDivision.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/binarySearchAlgorithm/MinMaxDivision.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/binarySearchAlgorithm/NailingPlanks$Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/binarySearchAlgorithm/NailingPlanks$Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/binarySearchAlgorithm/NailingPlanks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/binarySearchAlgorithm/NailingPlanks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/caterpillarMethod/AbsDistinct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/caterpillarMethod/AbsDistinct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/caterpillarMethod/CountDistinctSlices.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/caterpillarMethod/CountDistinctSlices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/caterpillarMethod/CountTriangles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/caterpillarMethod/CountTriangles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/caterpillarMethod/MinAbsSumOfTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/caterpillarMethod/MinAbsSumOfTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/collections/CacheAny.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/collections/CacheAny.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/collections/DequeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/collections/DequeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/collections/GenericsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/collections/GenericsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/collections/MapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/collections/MapDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/countingelements/FrogRiverOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/countingelements/FrogRiverOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/countingelements/MaxCounters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/countingelements/MaxCounters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/countingelements/MissingInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/countingelements/MissingInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/countingelements/PermCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/countingelements/PermCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/dynamicProgramming/MinAbsSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/dynamicProgramming/MinAbsSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/dynamicProgramming/NumberSolitaire.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/dynamicProgramming/NumberSolitaire.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/euclideanAlgorithm/ChocolatesByNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/euclideanAlgorithm/ChocolatesByNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/euclideanAlgorithm/CommonPrimeDivisors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/euclideanAlgorithm/CommonPrimeDivisors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/fibonacciNumbers/FibFrog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/fibonacciNumbers/FibFrog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/fibonacciNumbers/Ladder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/fibonacciNumbers/Ladder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/greedyAlgorithms/MaxNonoverlappingSegments.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/greedyAlgorithms/MaxNonoverlappingSegments.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/greedyAlgorithms/TieRopes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/greedyAlgorithms/TieRopes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/iterations/BinaryGap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/iterations/BinaryGap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/leader/Dominator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/leader/Dominator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/leader/EquiLeader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/leader/EquiLeader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/maximumSliceProblem/MaxDoubleSliceSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/maximumSliceProblem/MaxDoubleSliceSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/maximumSliceProblem/MaxProfit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/maximumSliceProblem/MaxProfit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/maximumSliceProblem/MaxSliceSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/maximumSliceProblem/MaxSliceSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/ocadotaskone/Median.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/ocadotaskone/Median.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/ocadotaskthree/Necklace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/ocadotaskthree/Necklace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/ocadotasktwo/Mode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/ocadotasktwo/Mode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/prefixsums/CountDiv.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/prefixsums/CountDiv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/prefixsums/GenomicRangeQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/prefixsums/GenomicRangeQuery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/prefixsums/MinAvgTwoSlice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/prefixsums/MinAvgTwoSlice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/prefixsums/PassingCars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/prefixsums/PassingCars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/primeAndCompositeNumbers/CountFactors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/primeAndCompositeNumbers/CountFactors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/primeAndCompositeNumbers/Flags.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/primeAndCompositeNumbers/Flags.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/primeAndCompositeNumbers/MinPerimeterRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/primeAndCompositeNumbers/MinPerimeterRectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/primeAndCompositeNumbers/Peaks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/primeAndCompositeNumbers/Peaks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/sieveOfEratosthenes/CountNonDivisible.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/sieveOfEratosthenes/CountNonDivisible.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/sieveOfEratosthenes/CountSemiprimes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/sieveOfEratosthenes/CountSemiprimes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/sorting/Distinct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/sorting/Distinct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/sorting/MaxProductOfThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/sorting/MaxProductOfThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/sorting/NumberOfDiscIntersections.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/sorting/NumberOfDiscIntersections.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/sorting/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/sorting/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/stacksandqueues/Brackets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/stacksandqueues/Brackets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/stacksandqueues/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/stacksandqueues/Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/stacksandqueues/Nesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/stacksandqueues/Nesting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/stacksandqueues/StoneWall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/stacksandqueues/StoneWall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/tasksFromIndeedPrime2015/FloodDepth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/tasksFromIndeedPrime2015/FloodDepth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/tasksFromIndeedPrime2015/LongestPassword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/tasksFromIndeedPrime2015/LongestPassword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/tasksFromIndeedPrime2015/SlalomSkiing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/tasksFromIndeedPrime2015/SlalomSkiing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/timecomplexity/FrogJmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/timecomplexity/FrogJmp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/timecomplexity/PermMissingElem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/timecomplexity/PermMissingElem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/timecomplexity/TapeEquilibrium.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/codility/nacer/timecomplexity/TapeEquilibrium.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/leetcode/nacer/FirstBadVersion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/leetcode/nacer/FirstBadVersion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/leetcode/nacer/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/leetcode/nacer/ThreeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/leetcode/nacer/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/leetcode/nacer/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/luv2code/nacer/ShoppingCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/luv2code/nacer/ShoppingCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codility/nacer/Lesson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codility/nacer/arrays/CyclicRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codility/nacer/arrays/CyclicRotation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,6 +92,7 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.132" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -93,122 +100,86 @@
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.26" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="41" />
+          <entry key="java" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="41" />
+          <entry key="JAVA" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="742" />
-          <entry key="txt" value="24" />
+          <entry key="java" value="2454" />
+          <entry key="txt" value="129" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="742" />
-          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="JAVA" value="2454" />
+          <entry key="PLAIN_TEXT" value="133" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/greedyAlgorithms/TieRopes.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Practice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
+            <state relative-caret-position="187">
+              <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/arrays/OddOccurrencesInArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-20">
+              <caret line="44" column="115" selection-start-line="44" selection-start-column="105" selection-end-line="44" selection-end-column="131" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/binarySearchAlgorithm/MinMaxDivision.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-136">
               <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/iterations/BinaryGap.java">
+        <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/arrays/ContiguousSubArrayMaxSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            <state relative-caret-position="141">
+              <caret line="30" selection-start-line="30" selection-end-line="30" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/leader/Dominator.java">
+        <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/arrays/MissingNumberInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+            <state relative-caret-position="298">
+              <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/leader/EquiLeader.java">
+        <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/arrays/CyclicRotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/maximumSliceProblem/MaxDoubleSliceSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/maximumSliceProblem/MaxProfit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/ocadotaskthree/Necklace.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/collections/GenericsDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/ocadotaskone/Median.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/maximumSliceProblem/MaxSliceSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            <state relative-caret-position="332">
+              <caret line="52" selection-start-line="52" selection-end-line="62" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -218,6 +189,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Singleton" />
         <option value="Class" />
       </list>
     </option>
@@ -239,9 +211,13 @@
         <option value="$PROJECT_DIR$/src/com/codility/nacer/collections/DequeExample.java" />
         <option value="$PROJECT_DIR$/src/com/codility/nacer/collections/MapDemo.java" />
         <option value="$PROJECT_DIR$/src/com/codility/nacer/collections/DequeDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/codility/nacer/arrays/CyclicRotation.java" />
         <option value="$PROJECT_DIR$/src/com/codility/nacer/caterpillarMethod/AbsDistinct.java" />
         <option value="$PROJECT_DIR$/src/com/codility/nacer/collections/GenericsDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/codility/nacer/arrays/CyclicRotation.java" />
+        <option value="$PROJECT_DIR$/src/com/codility/nacer/Lesson.java" />
+        <option value="$PROJECT_DIR$/src/com/codility/nacer/arrays/ContiguousSubArrayMaxSum.java" />
+        <option value="$PROJECT_DIR$/src/com/codility/nacer/arrays/MissingNumberInArray.java" />
+        <option value="$PROJECT_DIR$/src/com/Practice.java" />
       </list>
     </option>
   </component>
@@ -251,9 +227,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="332" />
-    <option name="width" value="1578" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="142" />
+    <option name="width" value="1768" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -262,7 +238,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -301,42 +277,26 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="nacer" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prepare4success" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nacer" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-              <item name="GenericsDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prepare4success" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nacer" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-              <item name="GenericsDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-              <item name="GenericsDemo" type="1a9f42e2:ClassTreeNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537768395598" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Worldpay/offer-service-master/offer-service-master/pom.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542453832706" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -350,13 +310,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericsDemo">
-    <configuration name="AbsDistinct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codility.nacer.caterpillarMethod.AbsDistinct" />
+  <component name="RunManager" selected="Application.MissingNumberInArray">
+    <configuration name="ContiguousSubArrayMaxSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codility.nacer.arrays.ContiguousSubArrayMaxSum" />
       <module name="prepare4success" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codility.nacer.caterpillarMethod.*" />
+          <option name="PATTERN" value="com.codility.nacer.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -377,12 +337,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codility.nacer.collections.GenericsDemo" />
+    <configuration name="MissingNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codility.nacer.arrays.MissingNumberInArray" />
       <module name="prepare4success" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codility.nacer.collections.*" />
+          <option name="PATTERN" value="com.codility.nacer.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -390,12 +350,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMaxDivision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codility.nacer.binarySearchAlgorithm.MinMaxDivision" />
+    <configuration name="OddOccurrencesInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codility.nacer.arrays.OddOccurrencesInArray" />
       <module name="prepare4success" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codility.nacer.binarySearchAlgorithm.*" />
+          <option name="PATTERN" value="com.codility.nacer.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,12 +363,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Necklace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codility.nacer.ocadotaskthree.Necklace" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Practice" />
       <module name="prepare4success" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codility.nacer.ocadotaskthree.*" />
+          <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -418,17 +378,17 @@
     </configuration>
     <list>
       <item itemvalue="Application.CyclicRotation" />
-      <item itemvalue="Application.MinMaxDivision" />
-      <item itemvalue="Application.AbsDistinct" />
-      <item itemvalue="Application.Necklace" />
-      <item itemvalue="Application.GenericsDemo" />
+      <item itemvalue="Application.Practice" />
+      <item itemvalue="Application.OddOccurrencesInArray" />
+      <item itemvalue="Application.ContiguousSubArrayMaxSum" />
+      <item itemvalue="Application.MissingNumberInArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenericsDemo" />
-        <item itemvalue="Application.Necklace" />
-        <item itemvalue="Application.AbsDistinct" />
-        <item itemvalue="Application.MinMaxDivision" />
+        <item itemvalue="Application.MissingNumberInArray" />
+        <item itemvalue="Application.ContiguousSubArrayMaxSum" />
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.OddOccurrencesInArray" />
         <item itemvalue="Application.CyclicRotation" />
       </list>
     </recent_temporary>
@@ -450,16 +410,26 @@
       <workItem from="1537767677236" duration="1109000" />
       <workItem from="1537831735492" duration="869000" />
       <workItem from="1538425623041" duration="127000" />
+      <workItem from="1542439178177" duration="10872000" />
     </task>
+    <task id="LOCAL-00001" summary="Contiguous sub array maximum sum first commit">
+      <created>1542452586205</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542452586205</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9288000" />
+    <option name="totallyTimeSpent" value="20160000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="142" y="0" width="1768" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18017058" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1797424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -469,7 +439,39 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38828632" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26477024" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32822758" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="12" visible="true" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31199187" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26477024" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -489,37 +491,6 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35677084" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3290993" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3290993" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +501,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Contiguous sub array maximum sum first commit" />
+    <MESSAGE value="MissingNumberInArray first commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="MissingNumberInArray first commit." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/ocadotasktwo/Mode.java">
@@ -593,27 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/arrays/CyclicRotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="59" column="42" lean-forward="true" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/arrays/OddOccurrencesInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="47" column="15" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/binarySearchAlgorithm/MinMaxDivision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -738,14 +690,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/leader/Dominator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
+        <state relative-caret-position="714">
           <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/leader/EquiLeader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
+        <state relative-caret-position="935">
           <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
         </state>
       </provider>
@@ -787,17 +739,137 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/collections/GenericsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="54" />
+        <state relative-caret-position="255">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/Lesson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/arrays/OddOccurrencesInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="44" column="115" selection-start-line="44" selection-start-column="105" selection-end-line="44" selection-end-column="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/binarySearchAlgorithm/MinMaxDivision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/arrays/CyclicRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="52" selection-start-line="52" selection-end-line="62" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/arrays/ContiguousSubArrayMaxSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="30" selection-start-line="30" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/arrays/MissingNumberInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>prepare4success</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

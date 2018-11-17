@@ -52,7 +52,6 @@ public class CyclicRotation {
 
     public int[] solution(int[] A, int K) {
         // Using the concept of "mod" (to make it cyclic)
-
         int[] newArray = new int[A.length]; // a new array
 
         for (int i = 0; i < A.length; i++) {
