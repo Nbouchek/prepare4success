@@ -1,5 +1,8 @@
 package com.ucandoit2.nacer.strings;
 
+import java.util.HashSet;
+import java.util.Set;
+
 /**
  * Given a string, print all permutations of a given string.
  *
@@ -26,16 +29,21 @@ package com.ucandoit2.nacer.strings;
 public class PermutationsAfAString {
 
     private void solution(String string) {
-        permute(string, 0, string.length()-1);
+        Set<String> permutations = new HashSet<>();
+        permute(string, 0, string.length()-1, permutations);
+        System.out.println("permutations: " + permutations.toString());
     }
 
-    private void permute(String string, int left, int right) {
+    private void permute(String string, int left, int right, Set<String> set) {
+
         if (left == right) {
             System.out.println(string);
-        } else {
+            set.add(string);
+        }
+        else {
             for (int i = left; i <= right; i++) {
                 string = swapChars(string, left, i);
-                permute(string, left + 1, right);
+                permute(string, left + 1, right, set);
                 string = swapChars(string, left, i);
             }
         }
@@ -53,7 +61,7 @@ public class PermutationsAfAString {
     }
 
     public static void main(String[] args) {
-        String string = "HAL";
+        String string = "exit";
         new PermutationsAfAString().solution(string);
     }
 }
