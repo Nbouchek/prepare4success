@@ -41,14 +41,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="3893" />
-          <entry key="txt" value="211" />
+          <entry key="java" value="3963" />
+          <entry key="txt" value="222" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3893" />
-          <entry key="PLAIN_TEXT" value="215" />
+          <entry key="JAVA" value="3963" />
+          <entry key="PLAIN_TEXT" value="226" />
         </counts>
       </usages-collector>
     </session>
@@ -121,8 +121,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/ReverseWordsInString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="17" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -293,7 +293,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542490687543" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542491681779" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -414,7 +414,7 @@
       <workItem from="1537767677236" duration="1109000" />
       <workItem from="1537831735492" duration="869000" />
       <workItem from="1538425623041" duration="127000" />
-      <workItem from="1542439178177" duration="27462000" />
+      <workItem from="1542439178177" duration="28453000" />
     </task>
     <task id="LOCAL-00001" summary="Contiguous sub array maximum sum first commit">
       <created>1542452586205</created>
@@ -465,11 +465,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542490585546</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ReverseWordsInString improvement.">
+      <created>1542490708134</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1542490708134</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36750000" />
+    <option name="totallyTimeSpent" value="37741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="142" y="0" width="1768" height="1047" extended-state="0" />
@@ -521,7 +528,8 @@
     <MESSAGE value="Renaming package." />
     <MESSAGE value="Parensthesis checker improvement." />
     <MESSAGE value="ReverseWordsInString first commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="ReverseWordsInString first commit." />
+    <MESSAGE value="ReverseWordsInString improvement." />
+    <option name="LAST_COMMIT_MESSAGE" value="ReverseWordsInString improvement." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/prefixsums/GenomicRangeQuery.java">
@@ -862,8 +870,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/ReverseWordsInString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="17" selection-end-column="72" />
         </state>
       </provider>
     </entry>
