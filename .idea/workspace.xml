@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/ReverseWordsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/ReverseWordsInString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,14 +40,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="3963" />
-          <entry key="txt" value="222" />
+          <entry key="java" value="3969" />
+          <entry key="txt" value="230" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3963" />
-          <entry key="PLAIN_TEXT" value="226" />
+          <entry key="JAVA" value="3969" />
+          <entry key="PLAIN_TEXT" value="234" />
         </counts>
       </usages-collector>
     </session>
@@ -121,8 +120,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/ReverseWordsInString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="17" selection-end-column="72" />
+            <state relative-caret-position="282">
+              <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -293,7 +292,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542491681779" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542493338577" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -414,7 +413,7 @@
       <workItem from="1537767677236" duration="1109000" />
       <workItem from="1537831735492" duration="869000" />
       <workItem from="1538425623041" duration="127000" />
-      <workItem from="1542439178177" duration="28453000" />
+      <workItem from="1542439178177" duration="29284000" />
     </task>
     <task id="LOCAL-00001" summary="Contiguous sub array maximum sum first commit">
       <created>1542452586205</created>
@@ -472,11 +471,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542490708134</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ReverseWordsInString further improvement.">
+      <created>1542491752202</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1542491752202</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37741000" />
+    <option name="totallyTimeSpent" value="38572000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="142" y="0" width="1768" height="1047" extended-state="0" />
@@ -529,7 +535,8 @@
     <MESSAGE value="Parensthesis checker improvement." />
     <MESSAGE value="ReverseWordsInString first commit." />
     <MESSAGE value="ReverseWordsInString improvement." />
-    <option name="LAST_COMMIT_MESSAGE" value="ReverseWordsInString improvement." />
+    <MESSAGE value="ReverseWordsInString further improvement." />
+    <option name="LAST_COMMIT_MESSAGE" value="ReverseWordsInString further improvement." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/prefixsums/GenomicRangeQuery.java">
@@ -870,8 +877,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/ReverseWordsInString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="17" selection-end-column="72" />
+        <state relative-caret-position="282">
+          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
         </state>
       </provider>
     </entry>

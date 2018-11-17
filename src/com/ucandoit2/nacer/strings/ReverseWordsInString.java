@@ -25,8 +25,8 @@ package com.ucandoit2.nacer.strings;
  */
 public class ReverseWordsInString {
     private String solution(String string) {
-        System.out.println(string);
         string = string.trim();
+        System.out.println(string);
         String[] words = string.split("[.]");
         for (int i = 0; i < words.length/2; i++) {
             String temp = words[i];
@@ -41,7 +41,7 @@ public class ReverseWordsInString {
     }
 
     public static void main(String[] args) {
-        String string = " one.t ";
+        String string = " one..t.ss ";
         System.out.println(new ReverseWordsInString().solution(string));
     }
 }
