@@ -1,9 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/NextLargerElementInArray.java" afterDir="false" />
+    <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="rename package">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/ContiguousSubArrayMaxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/ContiguousSubArrayMaxSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/CyclicRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/CyclicRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/MissingNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/MissingNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/OddOccurrencesInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/OddOccurrencesInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/SmallestPositiveIntegerMissing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SmallestPositiveIntegerMissing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/SubarrayWithGivenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SubarrayWithGivenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/binarySearchAlgorithm/MinMaxDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/binarySearchAlgorithm/MinMaxDivision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/binarySearchAlgorithm/NailingPlanks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/binarySearchAlgorithm/NailingPlanks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/caterpillarMethod/AbsDistinct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/caterpillarMethod/AbsDistinct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/caterpillarMethod/CountDistinctSlices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/caterpillarMethod/CountDistinctSlices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/caterpillarMethod/CountTriangles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/caterpillarMethod/CountTriangles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/caterpillarMethod/MinAbsSumOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/caterpillarMethod/MinAbsSumOfTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/collections/DequeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/collections/DequeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/collections/GenericsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/collections/GenericsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/collections/MapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/collections/MapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/countingelements/FrogRiverOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/countingelements/FrogRiverOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/countingelements/MaxCounters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/countingelements/MaxCounters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/countingelements/MissingInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/countingelements/MissingInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/countingelements/PermCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/countingelements/PermCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/dynamicProgramming/MinAbsSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/dynamicProgramming/MinAbsSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/dynamicProgramming/NumberSolitaire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/dynamicProgramming/NumberSolitaire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/euclideanAlgorithm/ChocolatesByNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/euclideanAlgorithm/ChocolatesByNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/euclideanAlgorithm/CommonPrimeDivisors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/euclideanAlgorithm/CommonPrimeDivisors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/fibonacciNumbers/FibFrog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/fibonacciNumbers/FibFrog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/fibonacciNumbers/Ladder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/fibonacciNumbers/Ladder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/greedyAlgorithms/MaxNonoverlappingSegments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/greedyAlgorithms/MaxNonoverlappingSegments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/greedyAlgorithms/TieRopes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/greedyAlgorithms/TieRopes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/iterations/BinaryGap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/iterations/BinaryGap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/leader/Dominator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/leader/Dominator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/leader/EquiLeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/leader/EquiLeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/linkedLists/MiddleElementInLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/linkedLists/MiddleElementInLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/maximumSliceProblem/MaxDoubleSliceSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/maximumSliceProblem/MaxDoubleSliceSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/maximumSliceProblem/MaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/maximumSliceProblem/MaxProfit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/maximumSliceProblem/MaxSliceSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/maximumSliceProblem/MaxSliceSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/ocadotaskone/Median.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/ocadotaskone/Median.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/ocadotaskthree/Necklace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/ocadotaskthree/Necklace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/ocadotasktwo/Mode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/ocadotasktwo/Mode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/prefixsums/CountDiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/prefixsums/CountDiv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/prefixsums/GenomicRangeQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/prefixsums/GenomicRangeQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/prefixsums/MinAvgTwoSlice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/prefixsums/MinAvgTwoSlice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/prefixsums/PassingCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/prefixsums/PassingCars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/primeAndCompositeNumbers/CountFactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/primeAndCompositeNumbers/CountFactors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/primeAndCompositeNumbers/Flags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/primeAndCompositeNumbers/Flags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/primeAndCompositeNumbers/MinPerimeterRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/primeAndCompositeNumbers/MinPerimeterRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/primeAndCompositeNumbers/Peaks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/primeAndCompositeNumbers/Peaks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/sieveOfEratosthenes/CountNonDivisible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/sieveOfEratosthenes/CountNonDivisible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/sieveOfEratosthenes/CountSemiprimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/sieveOfEratosthenes/CountSemiprimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/sorting/Distinct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/sorting/Distinct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/sorting/MaxProductOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/sorting/MaxProductOfThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/sorting/NumberOfDiscIntersections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/sorting/NumberOfDiscIntersections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/sorting/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/sorting/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/Brackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/Brackets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/Nesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/Nesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/NextLargerElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/StoneWall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/StoneWall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/ParenthesisChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/ParenthesisChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/PermutationsAfAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/PermutationsAfAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/ReverseWordsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/ReverseWordsInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/tasksFromIndeedPrime2015/FloodDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/tasksFromIndeedPrime2015/FloodDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/tasksFromIndeedPrime2015/LongestPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/tasksFromIndeedPrime2015/LongestPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/tasksFromIndeedPrime2015/SlalomSkiing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/tasksFromIndeedPrime2015/SlalomSkiing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/timecomplexity/FrogJmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/timecomplexity/FrogJmp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/timecomplexity/PermMissingElem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/timecomplexity/PermMissingElem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/timecomplexity/TapeEquilibrium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/timecomplexity/TapeEquilibrium.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,13 +109,13 @@
         <counts>
           <entry key="dummy" value="4" />
           <entry key="java" value="4669" />
-          <entry key="txt" value="282" />
+          <entry key="txt" value="296" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="4669" />
-          <entry key="PLAIN_TEXT" value="286" />
+          <entry key="PLAIN_TEXT" value="300" />
         </counts>
       </usages-collector>
     </session>
@@ -59,7 +123,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/ReverseWordsInString.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/ReverseWordsInString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
               <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="44" />
@@ -68,7 +132,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/PermutationsAfAString.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/PermutationsAfAString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="258">
               <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
@@ -77,10 +141,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/linkedLists/MiddleElementInLinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/linkedLists/MiddleElementInLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -95,7 +159,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/MissingNumberInArray.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/MissingNumberInArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="314">
               <caret line="38" selection-start-line="38" selection-end-line="41" selection-end-column="5" />
@@ -104,25 +168,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/SmallestPositiveIntegerMissing.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SmallestPositiveIntegerMissing.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="21" column="82" lean-forward="true" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="82" />
+              <caret line="21" column="82" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="82" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/NextLargerElementInArray.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+            <state relative-caret-position="969">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/ContiguousSubArrayMaxSum.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/ContiguousSubArrayMaxSum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
               <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
@@ -131,7 +195,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/Brackets.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/Brackets.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
               <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
@@ -140,7 +204,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/Nesting.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/Nesting.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="544">
               <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
@@ -207,6 +271,7 @@
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/linkedLists/MiddleElementInLinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/SmallestPositiveIntegerMissing.java" />
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/NextLargerElementInArray.java" />
+        <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java" />
       </list>
     </option>
   </component>
@@ -254,14 +319,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="nacer" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prepare4success" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nacer" type="462c0819:PsiDirectoryNode" />
-              <item name="stacksandqueues" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -271,7 +328,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542532774860" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542533119222" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -393,7 +450,7 @@
       <workItem from="1537831735492" duration="869000" />
       <workItem from="1538425623041" duration="127000" />
       <workItem from="1542439178177" duration="33205000" />
-      <workItem from="1542527500766" duration="3906000" />
+      <workItem from="1542527500766" duration="4157000" />
     </task>
     <task id="LOCAL-00001" summary="Contiguous sub array maximum sum first commit">
       <created>1542452586205</created>
@@ -507,15 +564,21 @@
       <option name="project" value="LOCAL" />
       <updated>1542531311680</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="NextLargerElementInArray initial commit.">
+      <created>1542532795693</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1542532795693</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46399000" />
+    <option name="totallyTimeSpent" value="46650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="682" y="0" width="1258" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29799667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -527,12 +590,12 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.404814" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.404814" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934355" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32932165" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32932165" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -568,143 +631,145 @@
     <MESSAGE value="PermutationsAfAString first commit" />
     <MESSAGE value="PermutationsAfAString first further improvement" />
     <MESSAGE value="SmallestPositiveIntegerMissing initial commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="SmallestPositiveIntegerMissing initial commit." />
+    <MESSAGE value="NextLargerElementInArray initial commit." />
+    <MESSAGE value="rename package" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename package" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/primeAndCompositeNumbers/Flags.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/primeAndCompositeNumbers/Flags.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1292">
           <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/binarySearchAlgorithm/NailingPlanks.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/binarySearchAlgorithm/NailingPlanks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-586">
           <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/caterpillarMethod/CountDistinctSlices.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/caterpillarMethod/CountDistinctSlices.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-385">
           <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/caterpillarMethod/CountTriangles.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/caterpillarMethod/CountTriangles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-229">
           <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/caterpillarMethod/MinAbsSumOfTwo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/caterpillarMethod/MinAbsSumOfTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6">
           <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/collections/DequeDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/collections/DequeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/countingelements/MaxCounters.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/countingelements/MaxCounters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="74" column="17" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/dynamicProgramming/MinAbsSum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/dynamicProgramming/MinAbsSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-419">
           <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/dynamicProgramming/NumberSolitaire.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/dynamicProgramming/NumberSolitaire.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/euclideanAlgorithm/ChocolatesByNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/euclideanAlgorithm/ChocolatesByNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-28">
           <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/greedyAlgorithms/MaxNonoverlappingSegments.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/greedyAlgorithms/MaxNonoverlappingSegments.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
           <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/greedyAlgorithms/TieRopes.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/greedyAlgorithms/TieRopes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/iterations/BinaryGap.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/iterations/BinaryGap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/leader/Dominator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/leader/Dominator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/leader/EquiLeader.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/leader/EquiLeader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
           <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/maximumSliceProblem/MaxDoubleSliceSum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/maximumSliceProblem/MaxDoubleSliceSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
           <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/maximumSliceProblem/MaxProfit.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/maximumSliceProblem/MaxProfit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
           <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/ocadotaskthree/Necklace.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/ocadotaskthree/Necklace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/ocadotaskone/Median.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/ocadotaskone/Median.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/collections/GenericsDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/collections/GenericsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
@@ -712,164 +777,164 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/Lesson.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/CyclicRotation.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/CyclicRotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
           <caret line="52" selection-start-line="52" selection-end-line="62" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/ocadotasktwo/Mode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/ocadotasktwo/Mode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/countingelements/MissingInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/countingelements/MissingInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/primeAndCompositeNumbers/MinPerimeterRectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/primeAndCompositeNumbers/MinPerimeterRectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/maximumSliceProblem/MaxSliceSum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/maximumSliceProblem/MaxSliceSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/timecomplexity/FrogJmp.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/timecomplexity/FrogJmp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
           <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/timecomplexity/PermMissingElem.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/timecomplexity/PermMissingElem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
           <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/fibonacciNumbers/Ladder.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/fibonacciNumbers/Ladder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/prefixsums/MinAvgTwoSlice.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/prefixsums/MinAvgTwoSlice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="97" column="12" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/OddOccurrencesInArray.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/OddOccurrencesInArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="44" column="115" selection-start-line="44" selection-start-column="105" selection-end-line="44" selection-end-column="131" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/SubarrayWithGivenSum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SubarrayWithGivenSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/countingelements/FrogRiverOne.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/countingelements/FrogRiverOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="87" column="16" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/fibonacciNumbers/FibFrog.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/fibonacciNumbers/FibFrog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="129" column="17" lean-forward="true" selection-start-line="129" selection-start-column="17" selection-end-line="129" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/prefixsums/CountDiv.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/prefixsums/CountDiv.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/caterpillarMethod/AbsDistinct.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/caterpillarMethod/AbsDistinct.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
           <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/euclideanAlgorithm/CommonPrimeDivisors.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/euclideanAlgorithm/CommonPrimeDivisors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="867">
           <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/collections/MapDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/collections/MapDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/binarySearchAlgorithm/MinMaxDivision.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/binarySearchAlgorithm/MinMaxDivision.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/ParenthesisChecker.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/ParenthesisChecker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/ReverseWordsInString.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/ReverseWordsInString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/Nesting.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/Nesting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/PermutationsAfAString.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/PermutationsAfAString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/linkedLists/MiddleElementInLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/linkedLists/MiddleElementInLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -880,7 +945,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/MissingNumberInArray.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/MissingNumberInArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
           <caret line="38" selection-start-line="38" selection-end-line="41" selection-end-column="5" />
@@ -890,31 +955,31 @@
     <entry file="file://$PROJECT_DIR$/.vscode/launch.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/ContiguousSubArrayMaxSum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/ContiguousSubArrayMaxSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/SmallestPositiveIntegerMissing.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SmallestPositiveIntegerMissing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="21" column="82" lean-forward="true" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="82" />
+          <caret line="21" column="82" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/Brackets.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/Brackets.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/NextLargerElementInArray.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        <state relative-caret-position="969">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
