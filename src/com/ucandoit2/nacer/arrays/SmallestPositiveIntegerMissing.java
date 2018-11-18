@@ -27,10 +27,11 @@ public class SmallestPositiveIntegerMissing {
         for (int aA : A)
             if (aA > 0)
                 map.put(aA, aA);
-        if (map.isEmpty())
+        if (map.isEmpty()) {
             return 1;
+        }
 
-        for (int i = 0; i < map.keySet().size(); i++) {
+        for (var i = 0; i < map.keySet().size(); i++) {
             if (!(map.containsKey(i + 1))) return i + 1;
         }
 
