@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="SmallestPositiveIntegerMissing initial commit.">
-      <change afterPath="$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/SmallestPositiveIntegerMissing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ucandoit2/nacer/linkedLists/MiddleElementInLinkedList.java" afterDir="false" />
+    <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/NextLargerElementInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/PermutationsAfAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/PermutationsAfAString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,24 +31,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="80" />
+          <entry key="java" value="82" />
+          <entry key="json" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="80" />
+          <entry key="JAVA" value="82" />
+          <entry key="JSON" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="4550" />
+          <entry key="java" value="4669" />
           <entry key="txt" value="282" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4550" />
+          <entry key="JAVA" value="4669" />
           <entry key="PLAIN_TEXT" value="286" />
         </counts>
       </usages-collector>
@@ -58,24 +58,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/binarySearchAlgorithm/MinMaxDivision.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/ParenthesisChecker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/ReverseWordsInString.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -121,11 +103,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/SmallestPositiveIntegerMissing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+            <state relative-caret-position="288">
+              <caret line="21" column="82" lean-forward="true" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/NextLargerElementInArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/ContiguousSubArrayMaxSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -133,7 +133,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/Brackets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
+            <state relative-caret-position="242">
               <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
             </state>
           </provider>
@@ -206,6 +206,7 @@
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/PermutationsAfAString.java" />
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/linkedLists/MiddleElementInLinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/SmallestPositiveIntegerMissing.java" />
+        <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/NextLargerElementInArray.java" />
       </list>
     </option>
   </component>
@@ -259,30 +260,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="nacer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prepare4success" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nacer" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prepare4success" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nacer" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedLists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prepare4success" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nacer" type="462c0819:PsiDirectoryNode" />
-              <item name="strings" type="462c0819:PsiDirectoryNode" />
+              <item name="stacksandqueues" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -293,7 +271,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542531257232" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542532774860" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -314,9 +292,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SmallestPositiveIntegerMissing">
-    <configuration name="Brackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ucandoit2.nacer.stacksandqueues.Brackets" />
+  <component name="RunManager" selected="Application.NextLargerElementInArray">
+    <configuration name="NextLargerElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ucandoit2.nacer.stacksandqueues.NextLargerElementInArray" />
       <module name="prepare4success" />
       <extension name="coverage">
         <pattern>
@@ -381,19 +359,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Brackets" />
       <item itemvalue="Application.ParenthesisChecker" />
       <item itemvalue="Application.ReverseWordsInString" />
       <item itemvalue="Application.PermutationsAfAString" />
       <item itemvalue="Application.SmallestPositiveIntegerMissing" />
+      <item itemvalue="Application.NextLargerElementInArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NextLargerElementInArray" />
         <item itemvalue="Application.SmallestPositiveIntegerMissing" />
         <item itemvalue="Application.PermutationsAfAString" />
         <item itemvalue="Application.ReverseWordsInString" />
         <item itemvalue="Application.ParenthesisChecker" />
-        <item itemvalue="Application.Brackets" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +393,7 @@
       <workItem from="1537831735492" duration="869000" />
       <workItem from="1538425623041" duration="127000" />
       <workItem from="1542439178177" duration="33205000" />
-      <workItem from="1542527500766" duration="2461000" />
+      <workItem from="1542527500766" duration="3906000" />
     </task>
     <task id="LOCAL-00001" summary="Contiguous sub array maximum sum first commit">
       <created>1542452586205</created>
@@ -508,17 +486,38 @@
       <option name="project" value="LOCAL" />
       <updated>1542496127881</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="SmallestPositiveIntegerMissing initial commit.">
+      <created>1542531239750</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1542531239750</updated>
+    </task>
+    <task id="LOCAL-00015" summary="SmallestPositiveIntegerMissing initial commit.">
+      <created>1542531260639</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1542531260639</updated>
+    </task>
+    <task id="LOCAL-00016" summary="SmallestPositiveIntegerMissing initial commit.">
+      <created>1542531311680</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1542531311680</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44954000" />
+    <option name="totallyTimeSpent" value="46399000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="682" y="0" width="1258" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34223706" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29799667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -533,11 +532,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32932165" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32932165" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32822758" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32822758" />
       <window_info active="true" anchor="bottom" id="Inspection Results" order="12" visible="true" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -572,20 +571,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="SmallestPositiveIntegerMissing initial commit." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/prefixsums/PassingCars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/primeAndCompositeNumbers/CountFactors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/primeAndCompositeNumbers/Flags.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1292">
@@ -727,13 +712,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codility/nacer/Lesson.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/ContiguousSubArrayMaxSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/CyclicRotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
@@ -874,13 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/Brackets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/Nesting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -916,10 +887,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.vscode/launch.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/ContiguousSubArrayMaxSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/SmallestPositiveIntegerMissing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        <state relative-caret-position="288">
+          <caret line="21" column="82" lean-forward="true" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/Brackets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/NextLargerElementInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
         </state>
       </provider>
     </entry>
