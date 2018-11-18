@@ -39,8 +39,7 @@ public class PermutationsAfAString {
         if (left == right) {
             System.out.println(string);
             set.add(string);
-        }
-        else {
+        } else {
             for (int i = left; i <= right; i++) {
                 string = swapChars(string, left, i);
                 permute(string, left + 1, right, set);
@@ -49,8 +48,7 @@ public class PermutationsAfAString {
         }
     }
 
-    private String swapChars(String string, int i, int j)
-    {
+    private String swapChars(String string, int i, int j){
         char[] charArray = string.toCharArray();
 
         char temp = charArray[i] ;
