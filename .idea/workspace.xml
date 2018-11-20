@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="rename package">
-      <change afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/WinterSummerParition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/linkedLists/LengthOfLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +16,9 @@
     <session id="-466336355">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.132" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -29,18 +28,19 @@
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="86" />
+          <entry key="java" value="87" />
           <entry key="json" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="86" />
+          <entry key="JAVA" value="87" />
           <entry key="JSON" value="1" />
         </counts>
       </usages-collector>
@@ -62,19 +62,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Practice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="23" column="15" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="37" selection-end-column="5" />
+            <state relative-caret-position="391">
+              <caret line="23" column="15" selection-start-line="17" selection-start-column="1" selection-end-line="37" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -82,17 +73,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/WinterSummerParition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="748">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/linkedLists/LengthOfLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="289">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SubarrayWithGivenSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -101,7 +101,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/ocadotasktwo/Mode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -109,8 +109,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/MissingNumberInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="561">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -118,17 +118,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SmallestPositiveIntegerMissing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
+            <state relative-caret-position="340">
               <caret line="21" column="82" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="82" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="829">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            <state relative-caret-position="611">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
@@ -209,12 +209,12 @@
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/linkedLists/MiddleElementInLinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/SmallestPositiveIntegerMissing.java" />
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/NextLargerElementInArray.java" />
-        <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java" />
         <option value="$PROJECT_DIR$/src/com/Practice.java" />
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/ocadotasktwo/Mode.java" />
         <option value="$PROJECT_DIR$/src/com/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/linkedLists/LengthOfLinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/WinterSummerParition.java" />
+        <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java" />
       </list>
     </option>
   </component>
@@ -273,6 +273,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="nacer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prepare4success" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nacer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prepare4success" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nacer" type="462c0819:PsiDirectoryNode" />
               <item name="arrays" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -291,18 +305,26 @@
               <item name="nacer" type="462c0819:PsiDirectoryNode" />
               <item name="ocadotaskone" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prepare4success" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nacer" type="462c0819:PsiDirectoryNode" />
+              <item name="stacksandqueues" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542572547169" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542696296239" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -323,7 +345,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LengthOfLinkedList">
+  <component name="RunManager" selected="Application.NextLargerElementInArray (1)">
     <configuration name="LengthOfLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.linkedLists.LengthOfLinkedList" />
       <module name="prepare4success" />
@@ -337,25 +359,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextLargerElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ucandoit2.nacer.stacksandqueues.NextLargerElementInArray" />
+    <configuration name="NextLargerElementInArray (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.stacksandqueues.NextLargerElementInArray" />
       <module name="prepare4success" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ucandoit2.nacer.stacksandqueues.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SmallestPositiveIntegerMissing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ucandoit2.nacer.arrays.SmallestPositiveIntegerMissing" />
-      <module name="prepare4success" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ucandoit2.nacer.arrays.*" />
+          <option name="PATTERN" value="com.ucancrackit2.nacer.stacksandqueues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -369,6 +378,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubarrayWithGivenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.arrays.SubarrayWithGivenSum" />
+      <module name="prepare4success" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ucancrackit2.nacer.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -390,19 +412,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SmallestPositiveIntegerMissing" />
-      <item itemvalue="Application.NextLargerElementInArray" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.LengthOfLinkedList" />
       <item itemvalue="Application.WinterSummerParition" />
+      <item itemvalue="Application.SubarrayWithGivenSum" />
+      <item itemvalue="Application.NextLargerElementInArray (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NextLargerElementInArray (1)" />
+        <item itemvalue="Application.SubarrayWithGivenSum" />
         <item itemvalue="Application.LengthOfLinkedList" />
         <item itemvalue="Application.WinterSummerParition" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.NextLargerElementInArray" />
-        <item itemvalue="Application.SmallestPositiveIntegerMissing" />
       </list>
     </recent_temporary>
   </component>
@@ -426,6 +448,8 @@
       <workItem from="1542439178177" duration="33205000" />
       <workItem from="1542527500766" duration="4157000" />
       <workItem from="1542550148373" duration="10586000" />
+      <workItem from="1542695860515" duration="122000" />
+      <workItem from="1542696017734" duration="278000" />
     </task>
     <task id="LOCAL-00001" summary="Contiguous sub array maximum sum first commit">
       <created>1542452586205</created>
@@ -550,13 +574,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57236000" />
+    <option name="totallyTimeSpent" value="57636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="254" y="0" width="1673" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2250465" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23062617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -795,13 +819,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SubarrayWithGivenSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/countingelements/FrogRiverOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -889,6 +906,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="15" selection-start-line="17" selection-start-column="1" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/WinterSummerParition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/linkedLists/LengthOfLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/ocadotasktwo/Mode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/MissingNumberInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SmallestPositiveIntegerMissing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="82" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/Brackets.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
@@ -903,59 +969,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SubarrayWithGivenSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="829">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/MissingNumberInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SmallestPositiveIntegerMissing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="21" column="82" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/ocadotasktwo/Mode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="23" column="15" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/WinterSummerParition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/linkedLists/LengthOfLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="611">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
@@ -1024,7 +1048,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
