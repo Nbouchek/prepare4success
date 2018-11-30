@@ -17,6 +17,6 @@ public class LengthOfLinkedList {
 
     public static void main(String[] args) {
         int[] array = {3, 1, 2, 4, 7, 5, -1, 6};
-        System.out.println(new Solution().solution1(array));
+        System.out.println(new LengthOfLinkedList().solution(array));
     }
 }
