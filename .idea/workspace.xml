@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="JewelsAndStones initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/QueueUsingTwoStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/JewelsAndStones.java" afterDir="false" />
+    <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="UniqueEmailAddresses initial commit">
+      <change afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/UniqueEmailAddresses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SmallestPositiveIntegerMissing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SmallestPositiveIntegerMissing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,15 +45,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/Anagrams.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="51" column="50" selection-start-line="51" selection-start-column="50" selection-end-line="51" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Practice.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="697">
@@ -75,11 +62,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="293">
-              <caret line="46" column="41" lean-forward="true" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+              <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/UniqueEmailAddresses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,7 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/codility/nacer/arrays/CyclicRotation.java" />
         <option value="$PROJECT_DIR$/src/com/codility/nacer/Lesson.java" />
         <option value="$PROJECT_DIR$/src/com/codility/nacer/arrays/ContiguousSubArrayMaxSum.java" />
         <option value="$PROJECT_DIR$/src/com/codility/nacer/arrays/MissingNumberInArray.java" />
@@ -207,6 +205,7 @@
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/Anagrams.java" />
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/JewelsAndStones.java" />
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java" />
+        <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/UniqueEmailAddresses.java" />
       </list>
     </option>
   </component>
@@ -215,6 +214,9 @@
     <option name="y" value="64" />
     <option name="width" value="645" />
     <option name="height" value="899" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -248,14 +250,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="nacer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prepare4success" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nacer" type="462c0819:PsiDirectoryNode" />
-              <item name="stacksandqueues" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
@@ -299,7 +293,7 @@
     <property name="DatabaseDriversLRU" value="sqlite&#10;h2&#10;mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543649899638" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543652872337" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -321,7 +315,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JewelsAndStones">
+  <component name="RunManager" selected="Application.UniqueEmailAddresses">
     <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.strings.Anagrams" />
       <module name="prepare4success" />
@@ -374,12 +368,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Solution" />
+    <configuration name="UniqueEmailAddresses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.strings.UniqueEmailAddresses" />
       <module name="prepare4success" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.*" />
+          <option name="PATTERN" value="com.ucancrackit2.nacer.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -390,17 +384,17 @@
     <list>
       <item itemvalue="Application.Anagrams" />
       <item itemvalue="Application.IsValidNumber" />
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.LengthOfLinkedList" />
       <item itemvalue="Application.JewelsAndStones" />
+      <item itemvalue="Application.UniqueEmailAddresses" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniqueEmailAddresses" />
         <item itemvalue="Application.JewelsAndStones" />
         <item itemvalue="Application.Anagrams" />
         <item itemvalue="Application.LengthOfLinkedList" />
         <item itemvalue="Application.IsValidNumber" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -442,7 +436,7 @@
       <workItem from="1543522021139" duration="6646000" />
       <workItem from="1543562792285" duration="1203000" />
       <workItem from="1543610299909" duration="87000" />
-      <workItem from="1543648426660" duration="1466000" />
+      <workItem from="1543648426660" duration="4227000" />
     </task>
     <task id="LOCAL-00001" summary="Contiguous sub array maximum sum first commit">
       <created>1542452586205</created>
@@ -591,11 +585,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543563936389</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="JewelsAndStones initial commit">
+      <created>1543649915620</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1543649915620</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88423000" />
+    <option name="totallyTimeSpent" value="91184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -661,16 +662,10 @@
     <MESSAGE value="IsValidNumber initial commit" />
     <MESSAGE value="Anagrama initial commit" />
     <MESSAGE value="JewelsAndStones initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="JewelsAndStones initial commit" />
+    <MESSAGE value="UniqueEmailAddresses initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="UniqueEmailAddresses initial commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SubarrayWithGivenSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7fe433c6-1e59-447c-8362-18803fa63168/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -971,7 +966,17 @@
     <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
-          <caret line="46" column="41" lean-forward="true" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/UniqueEmailAddresses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
