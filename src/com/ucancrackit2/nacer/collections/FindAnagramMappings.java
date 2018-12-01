@@ -37,7 +37,7 @@ public class FindAnagramMappings {
         }
 
         for (int i = 0; i < A.length; i++) {
-            B[i] = hashMap.get(A[i]);
+            mapping[i] = hashMap.get(A[i]);
         }
 
         return mapping;
