@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="UniqueEmailAddresses initial commit">
-      <change afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/UniqueEmailAddresses.java" afterDir="false" />
+    <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/collections/FindAnagramMappings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,19 +45,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Practice.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/JewelsAndStones.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="340">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/JewelsAndStones.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/Anagrams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="28" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="28" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/collections/FindAnagramMappings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="42" column="22" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/UniqueEmailAddresses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+            <state relative-caret-position="252">
+              <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,15 +100,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
               <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/Nesting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -142,6 +145,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>parenthes</find>
+      <find>anagra</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -155,7 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/codility/nacer/Lesson.java" />
         <option value="$PROJECT_DIR$/src/com/codility/nacer/arrays/ContiguousSubArrayMaxSum.java" />
         <option value="$PROJECT_DIR$/src/com/codility/nacer/arrays/MissingNumberInArray.java" />
         <option value="$PROJECT_DIR$/src/com/codility/nacer/arrays/SubarrayWithGivenSum.java" />
@@ -206,12 +209,13 @@
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/JewelsAndStones.java" />
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java" />
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/UniqueEmailAddresses.java" />
+        <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/collections/FindAnagramMappings.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="7" />
-    <option name="y" value="64" />
+    <option name="x" value="1144" />
+    <option name="y" value="111" />
     <option name="width" value="645" />
     <option name="height" value="899" />
   </component>
@@ -257,7 +261,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="nacer" type="462c0819:PsiDirectoryNode" />
-              <item name="strings" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prepare4success" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nacer" type="462c0819:PsiDirectoryNode" />
+              <item name="stacksandqueues" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
@@ -293,7 +305,7 @@
     <property name="DatabaseDriversLRU" value="sqlite&#10;h2&#10;mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543652872337" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543654414245" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -315,7 +327,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UniqueEmailAddresses">
+  <component name="RunManager" selected="Application.FindAnagramMappings">
     <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.strings.Anagrams" />
       <module name="prepare4success" />
@@ -329,12 +341,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsValidNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.strings.IsValidNumber" />
+    <configuration name="FindAnagramMappings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.collections.FindAnagramMappings" />
       <module name="prepare4success" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ucancrackit2.nacer.strings.*" />
+          <option name="PATTERN" value="com.ucancrackit2.nacer.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -383,18 +395,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Anagrams" />
-      <item itemvalue="Application.IsValidNumber" />
       <item itemvalue="Application.LengthOfLinkedList" />
       <item itemvalue="Application.JewelsAndStones" />
       <item itemvalue="Application.UniqueEmailAddresses" />
+      <item itemvalue="Application.FindAnagramMappings" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindAnagramMappings" />
         <item itemvalue="Application.UniqueEmailAddresses" />
         <item itemvalue="Application.JewelsAndStones" />
         <item itemvalue="Application.Anagrams" />
         <item itemvalue="Application.LengthOfLinkedList" />
-        <item itemvalue="Application.IsValidNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +448,7 @@
       <workItem from="1543522021139" duration="6646000" />
       <workItem from="1543562792285" duration="1203000" />
       <workItem from="1543610299909" duration="87000" />
-      <workItem from="1543648426660" duration="4227000" />
+      <workItem from="1543648426660" duration="5797000" />
     </task>
     <task id="LOCAL-00001" summary="Contiguous sub array maximum sum first commit">
       <created>1542452586205</created>
@@ -592,11 +604,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543649915620</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="UniqueEmailAddresses initial commit">
+      <created>1543652884381</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1543652884381</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91184000" />
+    <option name="totallyTimeSpent" value="92754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -612,7 +631,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22318527" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22318527" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398524" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -621,7 +640,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32932165" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.3261105" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3261105" />
       <window_info active="true" anchor="bottom" id="Inspection Results" order="12" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Database Console" order="13" visible="true" weight="0.34573305" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
@@ -666,13 +685,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="UniqueEmailAddresses initial commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7fe433c6-1e59-447c-8362-18803fa63168/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ea1253c2-ba44-4326-96ff-1cc9e63189df/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -905,13 +917,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/Anagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="51" column="50" selection-start-line="51" selection-start-column="50" selection-end-line="51" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Practice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -963,6 +968,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/UniqueEmailAddresses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/Anagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
@@ -970,10 +992,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/UniqueEmailAddresses.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/collections/FindAnagramMappings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+        <state relative-caret-position="459">
+          <caret line="42" column="22" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
