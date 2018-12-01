@@ -29,14 +29,16 @@ import java.util.Stack;
  */
 public class NextLargerElementInArray {
     public static void main(String[] args) {
-        int array[] = {11, 13, 21, 3};
+        int[] array = {11, 13, 21, 3};
+        System.out.println(Arrays.toString(array));
+
         System.out.println(Arrays.toString(new NextLargerElementInArray().solution(array)));
     }
 
     private int[] solution(int[] array) {
 
         Stack<Integer> stack = new Stack<>();
-        int nextGreaterElemet[] = new int[array.length];
+        int[] nextGreaterElemet = new int[array.length];
 
         // iterate for rest of the elements
         for (int i = array.length - 1; i >= 0; i--) {
@@ -55,7 +57,6 @@ public class NextLargerElementInArray {
 
             nextGreaterElemet[i] = stack.empty() ? -1 : stack.peek();
             stack.push(array[i]);
-
         }
 
         return nextGreaterElemet;
