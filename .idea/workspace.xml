@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="BestTimeToBuyAndSellStock initial commit">
-      <change afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/dynamicProgramming/BestTimeToBuyAndSellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/UniqueMorseCodeWords.java" afterDir="false" />
+    <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/dynamicProgramming/MinCostClimbingStairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -46,15 +45,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/Anagrams.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/collections/FindAnagramMappings.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="612">
@@ -66,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/UniqueMorseCodeWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="44" column="44" lean-forward="true" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+            <state relative-caret-position="283">
+              <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -78,8 +68,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/dynamicProgramming/BestTimeToBuyAndSellStock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+            <state relative-caret-position="72">
+              <caret line="31" column="2" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/dynamicProgramming/MinCostClimbingStairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -160,7 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/codility/nacer/arrays/SubarrayWithGivenSum.java" />
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/arrays/SubarrayWithGivenSum.java" />
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/ocadotasktwo/Mode.java" />
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/countingelements/MissingInteger.java" />
@@ -211,6 +209,7 @@
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/collections/FindAnagramMappings.java" />
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/dynamicProgramming/BestTimeToBuyAndSellStock.java" />
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/UniqueMorseCodeWords.java" />
+        <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/dynamicProgramming/MinCostClimbingStairs.java" />
       </list>
     </option>
   </component>
@@ -287,14 +286,6 @@
             </path>
             <path>
               <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prepare4success" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nacer" type="462c0819:PsiDirectoryNode" />
-              <item name="strings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -327,7 +318,7 @@
     <property name="DatabaseDriversLRU" value="sqlite&#10;h2&#10;mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543674574392" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543675975339" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -349,7 +340,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UniqueMorseCodeWords">
+  <component name="RunManager" selected="Application.MinCostClimbingStairs">
     <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.dynamicProgramming.BestTimeToBuyAndSellStock" />
       <module name="prepare4success" />
@@ -376,12 +367,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JewelsAndStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.strings.JewelsAndStones" />
+    <configuration name="MinCostClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.dynamicProgramming.MinCostClimbingStairs" />
       <module name="prepare4success" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ucancrackit2.nacer.strings.*" />
+          <option name="PATTERN" value="com.ucancrackit2.nacer.dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -416,19 +407,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JewelsAndStones" />
       <item itemvalue="Application.UniqueEmailAddresses" />
       <item itemvalue="Application.FindAnagramMappings" />
       <item itemvalue="Application.UniqueMorseCodeWords" />
       <item itemvalue="Application.BestTimeToBuyAndSellStock" />
+      <item itemvalue="Application.MinCostClimbingStairs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinCostClimbingStairs" />
         <item itemvalue="Application.UniqueMorseCodeWords" />
         <item itemvalue="Application.BestTimeToBuyAndSellStock" />
         <item itemvalue="Application.UniqueEmailAddresses" />
         <item itemvalue="Application.FindAnagramMappings" />
-        <item itemvalue="Application.JewelsAndStones" />
       </list>
     </recent_temporary>
   </component>
@@ -471,7 +462,7 @@
       <workItem from="1543562792285" duration="1203000" />
       <workItem from="1543610299909" duration="87000" />
       <workItem from="1543648426660" duration="7632000" />
-      <workItem from="1543666475624" duration="4142000" />
+      <workItem from="1543666475624" duration="5580000" />
     </task>
     <task id="LOCAL-00001" summary="Contiguous sub array maximum sum first commit">
       <created>1542452586205</created>
@@ -648,11 +639,25 @@
       <option name="project" value="LOCAL" />
       <updated>1543660253544</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="BestTimeToBuyAndSellStock initial commit">
+      <created>1543674580492</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1543674580492</updated>
+    </task>
+    <task id="LOCAL-00027" summary="BestTimeToBuyAndSellStock initial commit">
+      <created>1543674614496</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1543674614496</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98731000" />
+    <option name="totallyTimeSpent" value="100169000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -668,7 +673,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34236187" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34236187" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398524" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -677,7 +682,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32932165" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.3261105" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3261105" />
       <window_info active="true" anchor="bottom" id="Inspection Results" order="12" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Database Console" order="13" visible="true" weight="0.34573305" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
@@ -725,13 +730,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="BestTimeToBuyAndSellStock initial commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/bfe335fc-d698-4de7-aa58-c7d919e0d6d7/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="131" selection-start-line="2" selection-end-line="18" selection-end-column="232" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/ocadotasktwo/Mode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -1034,17 +1032,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/dynamicProgramming/BestTimeToBuyAndSellStock.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/UniqueMorseCodeWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        <state relative-caret-position="283">
+          <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/UniqueMorseCodeWords.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/dynamicProgramming/BestTimeToBuyAndSellStock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="44" column="44" lean-forward="true" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+        <state relative-caret-position="72">
+          <caret line="31" column="2" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/dynamicProgramming/MinCostClimbingStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
         </state>
       </provider>
     </entry>
