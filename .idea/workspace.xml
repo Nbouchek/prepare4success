@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="FibonacciIterative initial commit">
-      <change afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/dynamicProgramming/ClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/fibonacciNumbers/FibonaccIIterative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/FirstUniqueCharacterInAString.java" afterDir="false" />
+    <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="BinarySearchTree initial commit">
+      <change afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/binarySearchAlgorithm/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/countingelements/NumberPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/prepare4success/com/leetcode/nacer/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prepare4success/com/leetcode/nacer/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/nacer/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/nacer/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/Anagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/PermutationsAfAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/PermutationsOfAString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,29 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/leetcode/nacer/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
+            <state relative-caret-position="295">
               <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/UniqueEmailAddresses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/Anagrams.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -96,11 +74,38 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/Anagrams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-201">
+              <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/binarySearchAlgorithm/BinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="952">
+              <caret line="56" column="29" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/PermutationsOfAString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1056">
+              <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/fibonacciNumbers/FibonaccIIterative.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="189">
+              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
               <folding>
                 <element signature="e#621#622#0" expanded="true" />
                 <element signature="e#686#687#0" expanded="true" />
@@ -110,31 +115,30 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/function/IntPredicate.java">
+        <entry file="file://$PROJECT_DIR$/src/com/leetcode/nacer/ThreeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+            <state relative-caret-position="423">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/669eb5e1-d775-426e-8fa7-72ffa9c76b84/console_2.sql">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/669eb5e1-d775-426e-8fa7-72ffa9c76b84/console_15.sql">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/countingelements/NumberPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="181">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/669eb5e1-d775-426e-8fa7-72ffa9c76b84/console_3.sql">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/fibonacciNumbers/FibFrog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -150,11 +154,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>parenthes</find>
-      <find>anagra</find>
       <find>twosum</find>
       <find>two</find>
       <find>fibona</find>
+      <find>anagra</find>
     </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Nacer\IdeaProjects\prepare4success\src\com\ucancrackit2\nacer\strings</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -167,10 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/maximumSliceProblem/MaxSliceSum.java" />
-        <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/timecomplexity/FrogJmp.java" />
-        <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/timecomplexity/PermMissingElem.java" />
-        <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/fibonacciNumbers/Ladder.java" />
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/prefixsums/MinAvgTwoSlice.java" />
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/countingelements/FrogRiverOne.java" />
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/caterpillarMethod/AbsDistinct.java" />
@@ -206,7 +209,6 @@
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/linkedLists/LengthOfLinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/IsValidNumber.java" />
-        <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/Anagrams.java" />
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/JewelsAndStones.java" />
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/stacksandqueues/NextLargerElementInArray.java" />
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/UniqueEmailAddresses.java" />
@@ -218,6 +220,11 @@
         <option value="$PROJECT_DIR$/src/com/leetcode/nacer/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/FirstUniqueCharacterInAString.java" />
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/fibonacciNumbers/FibonaccIIterative.java" />
+        <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/countingelements/NumberPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/PermutationsAfAString.java" />
+        <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/PermutationsOfAString.java" />
+        <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/binarySearchAlgorithm/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/Anagrams.java" />
       </list>
     </option>
   </component>
@@ -290,7 +297,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="nacer" type="462c0819:PsiDirectoryNode" />
-              <item name="fibonacciNumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="binarySearchAlgorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prepare4success" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nacer" type="462c0819:PsiDirectoryNode" />
+              <item name="binarySearchAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="BinarySearchTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prepare4success" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nacer" type="462c0819:PsiDirectoryNode" />
+              <item name="countingelements" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="prepare4success" type="b2602c69:ProjectViewProjectNode" />
@@ -312,7 +336,7 @@
     <property name="DatabaseDriversLRU" value="sqlite&#10;h2&#10;mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543689290723" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543736224707" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -334,7 +358,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FibonaccIIterative">
+  <component name="RunManager" selected="Application.BinarySearchTree">
+    <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.strings.Anagrams" />
+      <module name="prepare4success" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ucancrackit2.nacer.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.binarySearchAlgorithm.BinarySearchTree" />
+      <module name="prepare4success" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ucancrackit2.nacer.binarySearchAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FibonaccIIterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.fibonacciNumbers.FibonaccIIterative" />
       <module name="prepare4success" />
@@ -348,12 +398,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstUniqueCharacterInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.strings.FirstUniqueCharacterInAString" />
+    <configuration name="NumberPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.countingelements.NumberPalindrome" />
       <module name="prepare4success" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ucancrackit2.nacer.strings.*" />
+          <option name="PATTERN" value="com.ucancrackit2.nacer.countingelements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -361,34 +411,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinCostClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.dynamicProgramming.MinCostClimbingStairs" />
-      <module name="prepare4success" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ucancrackit2.nacer.dynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.nacer.TwoSum" />
-      <module name="prepare4success" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.nacer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UniqueMorseCodeWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.strings.UniqueMorseCodeWords" />
+    <configuration name="PermutationsOfAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.strings.PermutationsOfAString" />
       <module name="prepare4success" />
       <extension name="coverage">
         <pattern>
@@ -401,19 +425,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.UniqueMorseCodeWords" />
-      <item itemvalue="Application.MinCostClimbingStairs" />
-      <item itemvalue="Application.TwoSum" />
-      <item itemvalue="Application.FirstUniqueCharacterInAString" />
       <item itemvalue="Application.FibonaccIIterative" />
+      <item itemvalue="Application.NumberPalindrome" />
+      <item itemvalue="Application.PermutationsOfAString" />
+      <item itemvalue="Application.Anagrams" />
+      <item itemvalue="Application.BinarySearchTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearchTree" />
+        <item itemvalue="Application.Anagrams" />
+        <item itemvalue="Application.PermutationsOfAString" />
+        <item itemvalue="Application.NumberPalindrome" />
         <item itemvalue="Application.FibonaccIIterative" />
-        <item itemvalue="Application.FirstUniqueCharacterInAString" />
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.MinCostClimbingStairs" />
-        <item itemvalue="Application.UniqueMorseCodeWords" />
       </list>
     </recent_temporary>
   </component>
@@ -458,7 +482,7 @@
       <workItem from="1543648426660" duration="7632000" />
       <workItem from="1543666475624" duration="5863000" />
       <workItem from="1543684463973" duration="1686000" />
-      <workItem from="1543688460208" duration="635000" />
+      <workItem from="1543688460208" duration="5886000" />
     </task>
     <task id="LOCAL-00001" summary="Contiguous sub array maximum sum first commit">
       <created>1542452586205</created>
@@ -656,11 +680,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543675993718</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="FibonacciIterative initial commit">
+      <created>1543689305015</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1543689305015</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102773000" />
+    <option name="totallyTimeSpent" value="108024000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -676,7 +707,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.16793066" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37703142" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398524" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -702,12 +733,48 @@
       <window_info anchor="right" id="Maven" order="9" />
       <window_info anchor="right" id="SciView" order="10" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24147122" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37703142" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398524" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32827735" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3261105" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="12" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Console" order="13" visible="true" weight="0.34573305" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SQL Generator" order="15" weight="0.64442015" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.20948827" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="SciView" order="10" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First commit" />
     <MESSAGE value="Contiguous sub array maximum sum first commit" />
     <MESSAGE value="MissingNumberInArray first commit." />
     <MESSAGE value="SubarrayWithGivenSum first commit." />
@@ -732,37 +799,10 @@
     <MESSAGE value="BestTimeToBuyAndSellStock initial commit" />
     <MESSAGE value="MinCostClimbingStairs initial commit" />
     <MESSAGE value="FibonacciIterative initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="FibonacciIterative initial commit" />
+    <MESSAGE value="BinarySearchTree initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="BinarySearchTree initial commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="das://669eb5e1-d775-426e-8fa7-72ffa9c76b84/schema/test_db/table/colleges">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/669eb5e1-d775-426e-8fa7-72ffa9c76b84/console_4.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="21" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://669eb5e1-d775-426e-8fa7-72ffa9c76b84/schema/test_db/table/trips">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/669eb5e1-d775-426e-8fa7-72ffa9c76b84/console_5.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="31" selection-start-line="31" selection-end-line="40" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://669eb5e1-d775-426e-8fa7-72ffa9c76b84/schema/test_db/table/stadium">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -897,13 +937,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/PermutationsAfAString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="44" column="41" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/linkedLists/LengthOfLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1011,13 +1044,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/Anagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/function/IntPredicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -1052,21 +1078,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leetcode/nacer/TwoSum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/fibonacciNumbers/FibFrog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        <state relative-caret-position="400">
+          <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/fibonacciNumbers/FibonaccIIterative.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="189">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
           <folding>
             <element signature="e#621#622#0" expanded="true" />
             <element signature="e#686#687#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/nacer/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/nacer/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/PermutationsOfAString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/strings/Anagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-201">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/countingelements/NumberPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/binarySearchAlgorithm/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="29" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
         </state>
       </provider>
     </entry>
