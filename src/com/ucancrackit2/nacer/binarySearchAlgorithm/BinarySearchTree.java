@@ -17,6 +17,10 @@ class Node {
         data = item;
         left = right = null;
     }
+
+    public Node() {
+
+    }
 }
 
 public class BinarySearchTree {
