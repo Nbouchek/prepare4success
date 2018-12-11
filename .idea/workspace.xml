@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/FlippingAnImage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -44,15 +45,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/binarySearchAlgorithm/BinarySearchTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/binarySearchAlgorithm/MirrorOfANodeInBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -79,11 +71,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/ocadotasktwo/Mode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="493">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/FlippingAnImage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -172,7 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/euclideanAlgorithm/CommonPrimeDivisors.java" />
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/stacksandqueues/Brackets.java" />
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/ParenthesisChecker.java" />
         <option value="$PROJECT_DIR$/src/com/ucandoit2/nacer/strings/ReverseWordsInString.java" />
@@ -223,6 +223,7 @@
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/binarySearchAlgorithm/MirrorOfANodeInBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/FindModeInArray.java" />
         <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SortArrayByParity.java" />
+        <option value="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/FlippingAnImage.java" />
       </list>
     </option>
   </component>
@@ -316,7 +317,7 @@
     <property name="DatabaseDriversLRU" value="sqlite&#10;h2&#10;mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544465946984" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544514603847" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -339,20 +340,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortArrayByParity">
-    <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.strings.Anagrams" />
-      <module name="prepare4success" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ucancrackit2.nacer.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FlippingAnImage">
     <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.binarySearchAlgorithm.BinarySearchTree" />
       <module name="prepare4success" />
@@ -368,6 +356,19 @@
     </configuration>
     <configuration name="FindModeInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.arrays.FindModeInArray" />
+      <module name="prepare4success" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ucancrackit2.nacer.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlippingAnImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.arrays.FlippingAnImage" />
       <module name="prepare4success" />
       <extension name="coverage">
         <pattern>
@@ -406,19 +407,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Anagrams" />
       <item itemvalue="Application.BinarySearchTree" />
       <item itemvalue="Application.MirrorOfANodeInBinaryTree" />
       <item itemvalue="Application.FindModeInArray" />
       <item itemvalue="Application.SortArrayByParity" />
+      <item itemvalue="Application.FlippingAnImage" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlippingAnImage" />
         <item itemvalue="Application.SortArrayByParity" />
         <item itemvalue="Application.FindModeInArray" />
         <item itemvalue="Application.MirrorOfANodeInBinaryTree" />
         <item itemvalue="Application.BinarySearchTree" />
-        <item itemvalue="Application.Anagrams" />
       </list>
     </recent_temporary>
   </component>
@@ -466,7 +467,7 @@
       <workItem from="1543688460208" duration="20307000" />
       <workItem from="1543907301412" duration="623000" />
       <workItem from="1544079269630" duration="286000" />
-      <workItem from="1544380838522" duration="12172000" />
+      <workItem from="1544380838522" duration="13349000" />
     </task>
     <task id="LOCAL-00001" summary="Contiguous sub array maximum sum first commit">
       <created>1542452586205</created>
@@ -685,17 +686,24 @@
       <option name="project" value="LOCAL" />
       <updated>1544424491640</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Mode - clean code">
+      <created>1544513443667</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1544513443667</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135526000" />
+    <option name="totallyTimeSpent" value="136703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="515" y="0" width="1412" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36612427" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36612427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -705,7 +713,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3621444" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3621444" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39761648" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -817,7 +825,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Contiguous sub array maximum sum first commit" />
     <MESSAGE value="MissingNumberInArray first commit." />
     <MESSAGE value="SubarrayWithGivenSum first commit." />
     <MESSAGE value="Renaming package." />
@@ -842,19 +849,13 @@
     <MESSAGE value="MinCostClimbingStairs initial commit" />
     <MESSAGE value="FibonacciIterative initial commit" />
     <MESSAGE value="BinarySearchTree initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="BinarySearchTree initial commit" />
+    <MESSAGE value="Mode - clean code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mode - clean code" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="das://669eb5e1-d775-426e-8fa7-72ffa9c76b84/schema/test_db/table/challenges">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://669eb5e1-d775-426e-8fa7-72ffa9c76b84/schema/test_db/table/challenges.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1182,8 +1183,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/ocadotasktwo/Mode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/FlippingAnImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
         </state>
       </provider>
     </entry>
