@@ -38,15 +38,13 @@ public class FlippingAnImage {
     }
 
     public int[][] solution(int[][] A) {
-
-        int C = A[0].length;
+        int width = A[0].length;
         for (int[] row : A)
-            for (int i = 0; i < (C + 1) / 2; ++i) {
+            for (int i = 0; i < (width + 1) / 2; ++i) {
                 int tmp = row[i] ^ 1;
-                row[i] = row[C - 1 - i] ^ 1;
-                row[C - 1 - i] = tmp;
+                row[i] = row[width - 1 - i] ^ 1;
+                row[width - 1 - i] = tmp;
             }
-
         return A;
     }
 }
