@@ -3,7 +3,8 @@ package com.ucancrackit2.nacer.arrays;
 import java.util.Arrays;
 
 /**
- * Given an array of 2n integers, your task is to group these integers into n pairs of integer, say (a1, b1), (a2, b2), ..., (an, bn) which makes sum of min(ai, bi) for all i from 1 to n as large as possible.
+ * Given an array of 2n integers, your task is to group these integers into n pairs of integer, say (a1, b1), (a2, b2),
+ * ..., (an, bn) which makes sum of min(ai, bi) for all i from 1 to n as large as possible.
  * <p>
  * Example 1:
  * Input: [1,4,3,2]
@@ -17,14 +18,14 @@ import java.util.Arrays;
 public class ArrayPartitionI {
     public static void main(String[] args) {
         int[] nums = {1, 4, 3, 2};
-        System.out.printf("" + new ArrayPartitionI().solution(nums));
+        System.out.print("" + new ArrayPartitionI().solution(nums));
     }
 
-    public int solution(int[] nums) {
-        Arrays.sort(nums);
+    public int solution(int[] inputArray) {
+        Arrays.sort(inputArray);
         int result = 0;
-        for (int i = 0; i < nums.length; i = i + 2)
-            result += nums[i];
+        for (int i = 0; i < inputArray.length; i = i + 2)
+            result += inputArray[i];
         return result;
     }
 }

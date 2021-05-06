@@ -1,7 +1,5 @@
 package com.ucancrackit2.nacer.linkedLists;
 
-import com.Solution;
-
 public class LengthOfLinkedList {
     public int solution(int[] A) {
         int count = 0;
