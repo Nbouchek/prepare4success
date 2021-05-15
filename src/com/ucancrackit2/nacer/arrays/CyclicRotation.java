@@ -47,7 +47,11 @@ import java.util.Arrays;
 public class CyclicRotation {
 
     public static void main(String[] args) {
-        System.out.println("CyclicRotation:\n\t" + Arrays.toString(new CyclicRotation().solution(new int[]{1, 2, 4, 5}, 2)));
+        int[] theArray = new int[]{1, 3, 2, 5, 4};
+        System.out.println(Arrays.toString(theArray));
+        System.out.println("CyclicRotation:\n" +
+                Arrays.toString(new CyclicRotation().solution(theArray, 2)));
+        System.out.println();
     }
 
     public int[] solution(int[] A, int K) {

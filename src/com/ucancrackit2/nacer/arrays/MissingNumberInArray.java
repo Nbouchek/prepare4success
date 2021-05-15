@@ -1,7 +1,8 @@
 package com.ucancrackit2.nacer.arrays;
 
 /**
- * Given an array C of size N-1 and given that there are numbers from 1 to N with one element missing, the missing number is to be found.
+ * Given an array C of size N-1 and given that there are numbers from 1 to N with one element missing, the missing
+ * number is to be found.
  *
  * Input:
  * The first line of input contains an integer T denoting the number of test cases.

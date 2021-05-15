@@ -42,7 +42,8 @@ package com.ucancrackit2.nacer.arrays;
  */
 public class OddOccurrencesInArray {
     public static void main(String[] args) {
-        System.out.println("OddOccurrencesInArray:\n\t" + new OddOccurrencesInArray().solution(new int[]{9, 3, 9, 3, 9, 7, 9, 7, 12}));
+        int[] theArray = new int[]{9, 3, 9, 3, 9, 7, 9, 7, 12};
+        System.out.println("OddOccurrencesInArray:\n\t" + new OddOccurrencesInArray().solution(theArray));
     }
 
     public int solution(int[] A) {
@@ -56,8 +57,7 @@ public class OddOccurrencesInArray {
         if (A.length == 0)
             return 0;
 
-        int unpaired;
-        unpaired = A[0]; // initial
+        int unpaired = A[0]; // initial
 
         for (int i = 1; i < A.length; i++) {
             unpaired = unpaired ^ A[i]; // xor

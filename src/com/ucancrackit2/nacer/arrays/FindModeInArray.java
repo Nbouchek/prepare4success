@@ -12,10 +12,9 @@ public class FindModeInArray {
     public int solution(int[] A) {
         if (A.length < 1 || A == null) return -1;
 
-        int maxValue = A[0];
+        int maxValue = A[A.length - 1];
         for (int i = 1; i < A.length; i++)
             if (A[i] > maxValue) maxValue = A[i];
-
         int[] frequency = new int[maxValue + 1];
 
         int modeIndex = A[0];

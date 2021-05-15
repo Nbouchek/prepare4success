@@ -26,7 +26,7 @@ import java.util.Arrays;
  */
 public class SortArrayByParityII {
     public static void main(String[] args) {
-        int[] A = {4, 1, 2, 1};
+        int[] A = {4, 2, 5, 7};
         System.out.println(Arrays.toString(new SortArrayByParityII().sortArrayByParityII(A)));
     }
 
@@ -46,6 +46,8 @@ public class SortArrayByParityII {
         for (int i = 0; i < A.length; i++)
             A[i] = i % 2 == 0 ? even[m++] : odd[n++];
 
+//        for (int i = A.length - 1; i >= 0; i--)
+//            A[i] = i % 2 == 0 ? even[--m] : odd[--n];
         return A;
     }
 }

@@ -19,7 +19,6 @@ class Node {
     }
 
     public Node() {
-
     }
 }
 

@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class Mode {
     public static void main(String[] args) {
-        System.out.println("Mode:\n\t" + new Mode().solution(new int[]{0, 0, 0, 1, 1, 1, 1, 1, 1}));
+        System.out.println("Mode:\n\t" + new Mode().solution(new int[]{0, 0, 0, 1, 4, 5, 6, 0, 1}));
         System.out.println("Mode:\n\t" + new Mode().solution(new int[]{8, 8}));
         System.out.println("Mode:\n\t" + new Mode().solution(new int[]{10, 10, 9}));
         System.out.println("Mode:\n\t" + new Mode().solution(new int[]{9, 10, 9}));
