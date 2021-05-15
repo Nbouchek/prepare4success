@@ -49,7 +49,7 @@ public class PermutationsOfAString {
     private void solution(String string) {
         Set<String> permutations = new HashSet<>();
         permute(string, 0, string.length() - 1, permutations);
-        System.out.println("permutations: " + permutations.toString());
+        System.out.println("permutations: " + permutations);
     }
 
     private String swapChars(String string, int i, int j) {

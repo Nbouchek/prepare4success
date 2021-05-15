@@ -71,10 +71,10 @@ public class GenomicRangeQuery {
 
         // to count "A"、"C"、"G"、"T"
         // A[i] means: num of 'a' from 0 to i-1
-        int A[] = new int[S.length() + 1];
-        int C[] = new int[S.length() + 1];
-        int G[] = new int[S.length() + 1];
-        int T[] = new int[S.length() + 1];
+        int[] A = new int[S.length() + 1];
+        int[] C = new int[S.length() + 1];
+        int[] G = new int[S.length() + 1];
+        int[] T = new int[S.length() + 1];
         // note: we use "S.length()+1"
         // which will let A[0]=0, C[0]=0, G[0]=0, T[0]=0
         // becasue we will compute number of 'a' by "A[Q+1] - A[P]"

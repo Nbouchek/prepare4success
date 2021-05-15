@@ -71,8 +71,8 @@ public class MaxDoubleSliceSum {
         // if the middle point is "Y",
         // find "maxLeft" and "maxRight"
 
-        int maxLeft[] = new int[A.length];
-        int maxRight[] = new int[A.length];
+        int[] maxLeft = new int[A.length];
+        int[] maxRight = new int[A.length];
 
         // 1) find "maxLeft"
         // maxLeft[i] is the maximum sum "contiguous subsequence" ending at index i

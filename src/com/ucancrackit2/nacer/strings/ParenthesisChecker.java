@@ -29,6 +29,10 @@ import java.util.Stack;
  * not balanced
  */
 public class ParenthesisChecker {
+    public static void main(String[] args) {
+        System.out.println("ParenthesisChecker;\n\t" + new ParenthesisChecker().solution("[[{()}][][]]"));
+    }
+
     public int solution(String theString) {
         int length = theString.length();
         if (length == 0) return 1;
@@ -43,8 +47,5 @@ public class ParenthesisChecker {
             }
         }
         return theStack.isEmpty() ? 1 : 0;
-    }
-    public static void main(String[] args) {
-        System.out.println("ParenthesisChecker;\n\t" + new ParenthesisChecker().solution("[[{()}][][]]"));
     }
 }

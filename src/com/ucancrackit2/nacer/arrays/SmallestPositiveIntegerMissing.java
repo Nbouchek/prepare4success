@@ -23,6 +23,17 @@ import java.util.Map;
  * each element of array A is an integer within the range [−1,000,000..1,000,000].
  */
 public class SmallestPositiveIntegerMissing {
+    public static void main(String[] args) {
+        int[] array = {1, 3, 6, 4, 1, 2};
+        System.out.println(new SmallestPositiveIntegerMissing().solution(array));
+
+        array = new int[]{-1, -3};
+        System.out.println(new SmallestPositiveIntegerMissing().solution(array));
+
+        array = new int[]{1, 2, 3};
+        System.out.println(new SmallestPositiveIntegerMissing().solution(array));
+    }
+
     public int solution(int[] A) {
         Map<Integer, Integer> map = new HashMap<>();
 
@@ -35,16 +46,5 @@ public class SmallestPositiveIntegerMissing {
             if (!(map.containsKey(i + 1))) return i + 1;
 
         return map.size() + 1;
-    }
-
-    public static void main(String[] args) {
-        int [] array = {1, 3, 6, 4, 1, 2};
-        System.out.println(new SmallestPositiveIntegerMissing().solution(array));
-
-        array = new int[]{-1, -3};
-        System.out.println(new SmallestPositiveIntegerMissing().solution(array));
-
-        array = new int[]{1, 2, 3};
-        System.out.println(new SmallestPositiveIntegerMissing().solution(array));
     }
 }

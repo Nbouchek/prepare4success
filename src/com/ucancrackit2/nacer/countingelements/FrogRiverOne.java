@@ -82,9 +82,8 @@ public class FrogRiverOne {
         }
 
         for (int i = 0; i < A.length; i++) {
-            if (set.contains(A[i])) { // when a number appears,
-                set.remove(A[i]);             // then, remove it from the set
-            }
+            // when a number appears,
+            set.remove(A[i]);             // then, remove it from the set
             if (set.isEmpty()) {        // nothing in the set
                 return i;                     // In second i, "1~X" have all appeared
             }

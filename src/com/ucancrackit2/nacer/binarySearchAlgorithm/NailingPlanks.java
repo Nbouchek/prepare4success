@@ -166,7 +166,7 @@ public class NailingPlanks {
     }
 
     private static class Queue {
-        private int[] array;
+        private final int[] array;
         private int start = 0;
         private int end = -1;
         private int size = 0;

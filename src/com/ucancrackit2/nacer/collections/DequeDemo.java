@@ -15,7 +15,9 @@ public class DequeDemo {
         theQue.add("Two");
         theQue.add("Three");
 
-        while (theQue.size() > 0) { System.out.println("" + theQue.remove()); }
+        while (theQue.size() > 0) {
+            System.out.println("" + theQue.remove());
+        }
 
         System.out.println("*** Deque as a Que");
         // Deque as a Stack using pop/push
@@ -24,6 +26,8 @@ public class DequeDemo {
         theStack.push("Five");
         theStack.push("Six");
 
-        while (theStack.size() > 0) { System.out.println("" + theStack.pop());}
+        while (theStack.size() > 0) {
+            System.out.println("" + theStack.pop());
+        }
     }
 }

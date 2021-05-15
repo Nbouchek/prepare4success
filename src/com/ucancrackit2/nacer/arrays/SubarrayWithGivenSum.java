@@ -5,21 +5,21 @@ import java.util.HashMap;
 /**
  * Given an unsorted array A of size N of non-negative integers, find a continuous sub-array which adds to a given
  * number.
- *
+ * <p>
  * Input:
  * The first line of input contains an integer T denoting the number of test cases. Then T test cases follow. Each test
  * case consists of two lines. The first line of each test case is N and S, where N is the size of array and S is the
  * sum. The second line of each test case contains N space separated integers denoting the array elements.
- *
+ * <p>
  * Output:
  * For each testcase, in a new line, print the starting and ending positions(1 indexing) of first such occurring
  * sub-array from the left if sum equals to sub-array, else print -1.
- *
+ * <p>
  * Constraints:
  * 1 <= T <= 100
  * 1 <= N <= 10^7
  * 1 <= Ai <= 1010
- *
+ * <p>
  * Example:
  * Input:
  * 2
@@ -30,14 +30,21 @@ import java.util.HashMap;
  * Output:
  * 2 4
  * 1 5
- *
+ * <p>
  * Explanation :
  * Testcase1: sum of elements from 2nd position to 4th position is 12
  * Testcase2: sum of elements from 1st position to 5th position is 15
  */
 public class SubarrayWithGivenSum {
 
-    public int solution (int[] A, int sum) {
+    public static void main(String[] args) {
+        int[] A = {10, 2, -2, -20, 10};
+        int sum = -10;
+
+        int example = new SubarrayWithGivenSum().solution(A, -10);
+    }
+
+    public int solution(int[] A, int sum) {
         long cummulativeSum = 0;
         int startIndex = 0;
         int endIndex = -1;
@@ -53,7 +60,7 @@ public class SubarrayWithGivenSum {
             }
 
             if (hashMap.containsKey(cummulativeSum - sum)) {
-                startIndex = hashMap.get(cummulativeSum - sum ) + 1;
+                startIndex = hashMap.get(cummulativeSum - sum) + 1;
                 endIndex = i;
                 break;
             }
@@ -63,18 +70,10 @@ public class SubarrayWithGivenSum {
 
         if (endIndex == -1) {
             System.out.println("subArray not found with sum = " + sum + " not found");
-        }
-        else {
+        } else {
             System.out.println("subArray with sum = " + sum + " is between " + startIndex + " and " + endIndex);
         }
 
         return sum;
-    }
-
-    public static void main(String[] args) {
-        int[] A = {10, 2, -2, -20, 10};
-        int sum = -10;
-
-        int example = new SubarrayWithGivenSum().solution(A, -10);
     }
 }

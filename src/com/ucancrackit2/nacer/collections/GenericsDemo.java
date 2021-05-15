@@ -12,7 +12,7 @@ public class GenericsDemo {
     }
 }
 
-class CacheAny <T> {
+class CacheAny<T> {
     private T t;
 
     public T getT() {

@@ -15,7 +15,7 @@ public class MapDemo {
         Set<String> keys = partList.keySet();
         System.out.println("----- Part List -----");
 
-        for (String key: keys) {
+        for (String key : keys) {
             System.out.println("Part # " + key + ",  " + partList.get(key));
         }
     }

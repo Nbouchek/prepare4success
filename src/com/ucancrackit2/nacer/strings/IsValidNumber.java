@@ -1,6 +1,10 @@
 package com.ucancrackit2.nacer.strings;
 
 public class IsValidNumber {
+    public static void main(String[] args) {
+        System.out.println("A vlaid number " + new IsValidNumber().isNumber("87."));
+    }
+
     private boolean isNumber(String s) {
         int i = 0;
         int n = s.length();
@@ -49,10 +53,6 @@ public class IsValidNumber {
         }
 
         return isNumeric && i == n;
-    }
-
-    public static void main(String[] args) {
-        System.out.println("A vlaid number " + new IsValidNumber().isNumber("87."));
     }
 
 }

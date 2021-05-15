@@ -20,6 +20,14 @@ public class WinterSummerParition {
         return ts;
     }
 
+    public static void main(String[] args) {
+
+        int[] ts = randomTemperatures(64);
+        System.out.println(Arrays.toString(ts));
+        System.out.println(new WinterSummerParition().solution(ts));
+
+    }
+
     public int solution(int[] T) {
         int count = 1;
         int summerCount = 0;
@@ -40,13 +48,5 @@ public class WinterSummerParition {
             }
         }
         return count;
-    }
-
-    public static void main(String[] args) {
-
-        int[] ts = randomTemperatures(64);
-        System.out.println(Arrays.toString(ts));
-        System.out.println(new WinterSummerParition().solution(ts));
-
     }
 }

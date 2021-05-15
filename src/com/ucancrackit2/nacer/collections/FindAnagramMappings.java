@@ -1,6 +1,5 @@
 package com.ucancrackit2.nacer.collections;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
@@ -18,7 +17,7 @@ import java.util.Map;
  * Note:
  * A, B have equal lengths in range [1, 100].
  * A[i], B[i] are integers in range [0, 10^5].
- *
+ * <p>
  * Thoughts:
  * Brutle way: O(n^2)
  * HashMap && O(n) solution
@@ -27,6 +26,12 @@ import java.util.Map;
  * Loop over A again and use the map.value to build result. Note, we should not have to worry about outbound since A & B are anagram
  */
 public class FindAnagramMappings {
+
+    public static void main(String[] args) {
+        int[] A = {12, 28, 46, 32, 50};
+        int[] B = {50, 12, 32, 46, 28};
+        System.out.println(Arrays.toString(new FindAnagramMappings().solution(A, B)));
+    }
 
     public int[] solution(int[] A, int[] B) {
         int[] mapping = new int[A.length];
@@ -41,11 +46,5 @@ public class FindAnagramMappings {
         }
 
         return mapping;
-    }
-
-    public static void main(String[] args) {
-        int[] A = {12, 28, 46, 32, 50};
-        int [] B = {50, 12, 32, 46, 28};
-        System.out.println(Arrays.toString(new FindAnagramMappings().solution(A, B)));
     }
 }

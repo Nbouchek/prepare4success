@@ -2,20 +2,20 @@ package com.ucancrackit2.nacer.arrays;
 
 /**
  * Given an array containing both negative and positive integers. Find the contiguous sub-array with maximum sum.
- *
+ * <p>
  * Input:
  * The first line of input contains an integer T denoting the number of test cases. The description of T test cases
  * follows. The first line of each test case contains a single integer N denoting the size of array. The second line
  * contains N space-separated integers A1, A2, ..., AN denoting the elements of the array.
- *
+ * <p>
  * Output:
  * Print the maximum sum of the contiguous sub-array in a separate line for each test case.
- *
+ * <p>
  * Constraints:
  * 1 ≤ T ≤ 200
  * 1 ≤ N ≤ 1000
  * -100 ≤ A[i] <= 100
- *
+ * <p>
  * Example:
  * Input
  * 2
@@ -28,6 +28,13 @@ package com.ucancrackit2.nacer.arrays;
  * -1
  */
 public class ContiguousSubArrayMaxSum {
+    public static void main(String[] args) {
+        int[] a = {-2, -3, 4, -1, -2, 1, 5, -3};
+        int n = a.length;
+        System.out.println("Maximum contiguous sum is "
+                + new ContiguousSubArrayMaxSum().solution(a));
+    }
+
     public int solution(int[] A) {
         int startIndex = 0;
         int endIndex = 0;
@@ -39,17 +46,10 @@ public class ContiguousSubArrayMaxSum {
             maxSoFar = Math.max(maxSoFar, currentMax);
 
             if (currentMax + A[i] > currentMax) endIndex = i;
-            if (A[i] == maxSoFar)  startIndex = i;
+            if (A[i] == maxSoFar) startIndex = i;
         }
         System.out.println("start: " + startIndex);
         System.out.println("end: " + endIndex);
         return maxSoFar;
-    }
-
-    public static void main(String[] args) {
-        int[] a = {-2, -3, 4, -1, -2, 1, 5, -3};
-        int n = a.length;
-        System.out.println("Maximum contiguous sum is "
-                + new ContiguousSubArrayMaxSum().solution(a) );
     }
 }
