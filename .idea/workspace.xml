@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="TransposeMatrix innitial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3895ce97-ec3b-4437-bf4c-f29e68aab1a8" name="Default Changelist" comment="Add review materials">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prepare4success.iml" beforeDir="false" afterPath="$PROJECT_DIR$/prepare4success.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/ArrayPartitionI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/ArrayPartitionI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/linkedLists/LengthOfLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/linkedLists/LengthOfLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/ContiguousSubArrayMaxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/ContiguousSubArrayMaxSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/CyclicRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/CyclicRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/FindModeInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/FindModeInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/FlippingAnImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/FlippingAnImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/MissingNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/MissingNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/OddOccurrencesInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/OddOccurrencesInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SmallestPositiveIntegerMissing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SmallestPositiveIntegerMissing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SortArrayByParity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SortArrayByParity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SortArrayByParityII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SortArrayByParityII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SubarrayWithGivenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/arrays/SubarrayWithGivenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/binarySearchAlgorithm/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/binarySearchAlgorithm/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/fibonacciNumbers/FibonaccIIterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/fibonacciNumbers/FibonaccIIterative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/ocadotasktwo/Mode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ucancrackit2/nacer/ocadotasktwo/Mode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,14 +270,27 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.41585535" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ArrayPartitionI">
-    <configuration name="ArrayPartitionI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.arrays.ArrayPartitionI" />
+  <component name="RunManager" selected="Application.FibonaccIIterative">
+    <configuration name="FibonaccIIterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.fibonacciNumbers.FibonaccIIterative" />
+      <module name="prepare4success" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ucancrackit2.nacer.fibonacciNumbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlippingAnImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.arrays.FlippingAnImage" />
       <module name="prepare4success" />
       <extension name="coverage">
         <pattern>
@@ -283,12 +302,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.linkedLists.LengthOfLinkedList" />
+    <configuration name="Mode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.ocadotasktwo.Mode" />
       <module name="prepare4success" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ucancrackit2.nacer.linkedLists.*" />
+          <option name="PATTERN" value="com.ucancrackit2.nacer.ocadotasktwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,21 +328,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToeplitzMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.arrays.ToeplitzMatrix" />
-      <module name="prepare4success" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ucancrackit2.nacer.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TransposeMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.arrays.TransposeMatrix" />
+    <configuration name="SubarrayWithGivenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.arrays.SubarrayWithGivenSum" />
       <module name="prepare4success" />
       <extension name="coverage">
         <pattern>
@@ -336,19 +342,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayPartitionI" />
+      <item itemvalue="Application.FlippingAnImage" />
       <item itemvalue="Application.SortArrayByParityII" />
-      <item itemvalue="Application.ToeplitzMatrix" />
-      <item itemvalue="Application.TransposeMatrix" />
-      <item itemvalue="Application.LengthOfLinkedList" />
+      <item itemvalue="Application.SubarrayWithGivenSum" />
+      <item itemvalue="Application.FibonaccIIterative" />
+      <item itemvalue="Application.Mode" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayPartitionI" />
-        <item itemvalue="Application.LengthOfLinkedList" />
-        <item itemvalue="Application.ToeplitzMatrix" />
-        <item itemvalue="Application.TransposeMatrix" />
+        <item itemvalue="Application.FibonaccIIterative" />
+        <item itemvalue="Application.Mode" />
+        <item itemvalue="Application.SubarrayWithGivenSum" />
         <item itemvalue="Application.SortArrayByParityII" />
+        <item itemvalue="Application.FlippingAnImage" />
       </list>
     </recent_temporary>
   </component>
@@ -647,7 +653,21 @@
       <option name="project" value="LOCAL" />
       <updated>1546778153465</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="update to jdk 16">
+      <created>1620340426649</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1620340426649</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Add review materials">
+      <created>1620340489155</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1620340489155</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -765,8 +785,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Parensthesis checker improvement." />
-    <MESSAGE value="ReverseWordsInString first commit." />
     <MESSAGE value="ReverseWordsInString improvement." />
     <MESSAGE value="ReverseWordsInString further improvement." />
     <MESSAGE value="PermutationsAfAString first commit" />
@@ -790,7 +808,9 @@
     <MESSAGE value="Arrays partition 1 innitial commit" />
     <MESSAGE value="SortArrayByParityII innitial commit" />
     <MESSAGE value="TransposeMatrix innitial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="TransposeMatrix innitial commit" />
+    <MESSAGE value="update to jdk 16" />
+    <MESSAGE value="Add review materials" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add review materials" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
