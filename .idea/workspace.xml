@@ -278,8 +278,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlippingAnImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.arrays.FlippingAnImage" />
+    <configuration name="FindModeInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ucancrackit2.nacer.arrays.FindModeInArray" />
       <module name="prepare4success" />
       <extension name="coverage">
         <pattern>
@@ -331,19 +331,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FibonaccIIterative" />
-      <item itemvalue="Application.FlippingAnImage" />
       <item itemvalue="Application.Mode" />
       <item itemvalue="Application.SortArrayByParityII" />
       <item itemvalue="Application.SubarrayWithGivenSum" />
+      <item itemvalue="Application.FindModeInArray" />
+      <item itemvalue="Application.FibonaccIIterative" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonaccIIterative" />
+        <item itemvalue="Application.FindModeInArray" />
         <item itemvalue="Application.SubarrayWithGivenSum" />
         <item itemvalue="Application.SortArrayByParityII" />
         <item itemvalue="Application.Mode" />
-        <item itemvalue="Application.FlippingAnImage" />
-        <item itemvalue="Application.FibonaccIIterative" />
       </list>
     </recent_temporary>
   </component>

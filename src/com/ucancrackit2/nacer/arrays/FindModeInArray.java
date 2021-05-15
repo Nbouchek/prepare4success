@@ -1,5 +1,7 @@
 package com.ucancrackit2.nacer.arrays;
 
+import java.util.Arrays;
+
 /**
  * Given an n sized unsorted array, find median and mode using counting sort technique.
  */
@@ -10,11 +12,9 @@ public class FindModeInArray {
     }
 
     public int solution(int[] A) {
-        if (A.length < 1 || A == null) return -1;
+        if (A.length < 1) return -1;
 
-        int maxValue = A[A.length - 1];
-        for (int i = 1; i < A.length; i++)
-            if (A[i] > maxValue) maxValue = A[i];
+        int maxValue = Arrays.stream(A).max().getAsInt();
         int[] frequency = new int[maxValue + 1];
 
         int modeIndex = A[0];
@@ -23,13 +23,13 @@ public class FindModeInArray {
             if (frequency[A[i]] > modeIndex) modeIndex = i;
         }
 
-        for (int i = 0; i < A.length; i++) {
-            System.out.print(A[i] + " ");
+        for (int j : A) {
+            System.out.print(j + " ");
         }
         System.out.println();
 
-        for (int i = 0; i < A.length; i++) {
-            System.out.print(frequency[A[i]] + " ");
+        for (int j : A) {
+            System.out.print(frequency[j] + " ");
         }
         System.out.println();
         return A[modeIndex];
